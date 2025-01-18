@@ -12,7 +12,7 @@ The dashboard includes the following components:
 - **Item Type and Content**: Classifies items by type and displays details such as fat content, providing nutritional insight.
 - **Outlet Characteristics**:
   - **Outlet Size**: Analyzes the impact of outlet size on sales and customer preferences.
-  - **Outlet Establishment **: Shows outlet age and its relation to sales performance and customer satisfaction.
+  - **Outlet Establishment**: Shows outlet age and its relation to sales performance and customer satisfaction.
 
 ## Data Sources
 - **BlinkIt Grocery Data**: Contains information on item sales, ratings, and nutritional content ,Information on outlet size, establishment year, and sales performance.
